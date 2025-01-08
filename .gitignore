@@ -1,4 +1,10 @@
 # Igonorar pastas
 .venv/
 .Lib/
+.idea
+
 Scripts/
+
+# Ignorar tipo de arquivos
+*.xml
+*.iml
