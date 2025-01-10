@@ -1,5 +1,5 @@
 # JUNÇÃO DE LISTAS de acordo com o INDEX (sequêncial)
-# Index 0 de uma lista com Index 0 com da outra lista
+# Index 0 de uma lista com Index 0 de outra lista
 
 #isso chama zip!
 
