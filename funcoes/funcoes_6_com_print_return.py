@@ -1,5 +1,5 @@
 '''
-Neste caso ocorre SIM a soma, porém não retornar nada no meu console.
+Neste caso ocorre SIM a soma, porém não retornará nada no console.
 Aparecerá o input do numero1 e numero2, o programa roda e soma os dois números
 porém sem print, pois estou utilizando o RETURN. O resultado estará armazenado na memória.
 
