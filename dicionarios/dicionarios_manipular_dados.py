@@ -17,7 +17,7 @@ aluno.update({'endereco': 'Rua Central'})
 print(aluno)
 
 print(aluno.get('endereco'))
-print(aluno.get('campo_nao_existente')) # retornará None
+print(aluno.get('campo_inexistente')) # retornará None
 
 # deletar uma KEY específica
 
